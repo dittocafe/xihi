@@ -1,6 +1,7 @@
 baseURL = "https://bjxihi.com/"
 languageCode = "zh-cn"
 title = "Xihi 的博客"
+theme = "PaperMod" 
 defaultContentLanguage = "zh"
 
 [params]
